@@ -3,3 +3,4 @@ This app allows the user to create notes with a title and content and store the 
 
 ![gif of app use] (public/assets/images/notetakergif.gif)
 
+[link to heroku deployed site] ( https://powerful-wave-44678.herokuapp.com/)
